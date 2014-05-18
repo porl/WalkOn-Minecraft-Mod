@@ -1,0 +1,16 @@
+[
+{
+  "modid": "walkOn",
+  "name": "Walk On Speed Mod",
+  "description": "Change speed depending on surface.",
+  "version": "0.0.0.0.0.0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["porl"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
